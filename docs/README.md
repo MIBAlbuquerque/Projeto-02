@@ -18,7 +18,7 @@ Programa exclusivo, promovido pela Rocketseat para ensino de tecnologias WEB. <b
 <br>
 
 <p align="center">
-  <img alt="projeto Móveis Costumizados" src="./docs/preview.jpg" width="100%">
+  <img alt="projeto Móveis Costumizados" src="./assets/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
